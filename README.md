@@ -59,16 +59,8 @@ Dataset link :https://bit.ly/3i4rbWl
 Create storyboards. Screen record along with your audio explaining the charts and interpretations.
 
 
-# Task-6 : Timeline Analysis : Covid-19 (Level - Advanced)
-Please click on the images on right side to view my solution (preferably youtube).
-
-Create a storyboard showing spread of Covid 19 cases in your country or any region (Asia, Europe, BRICS etc)
-Use animation, timeline and annotations to create attractive and interactive dashboards and story
-Identify interesting patterns and possible reasons helping Covid 19 spread with basic as well as advanced charts
-Use Tableau or Power BI for this task
-Screen record the completed storyboard along with your audio explaining the charts and giving recommendations.
-Dataset: Daily updated .csv file on https://bit.ly/30d2gdi
-You can view all the tasks on my youtube playlist as well.
+# Task 6:Prediction using Decision Tree Algorithm
+Task Description:Create the Decision Tree classifier and visualize it graphically.
 
 References -
 Tableau
