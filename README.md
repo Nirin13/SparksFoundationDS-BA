@@ -48,15 +48,8 @@ Download textual (news) data from https://bit.ly/36fFPI6
 Use either R or Python, or both for separate analysis and then combine the findings to create a hybrid model.
 
 
-# Task-5 : To Explore Business Analytics (Level - Beginner & Intermediate)
-Please click on the images on right side to view my solution (preferably youtube).
-
-Perform ‘Exploratory Data Analysis’ on the provided dataset ‘SampleSuperstore’
-As a business manager, try to find out the weak areas where you can work to make more profit.
-What all business problems you can derive by exploring the data?
-You can choose any of the tool of your choice (Python/R/Tableau/PowerBI/Excel)
-Dataset link :https://bit.ly/3i4rbWl
-Create storyboards. Screen record along with your audio explaining the charts and interpretations.
+# Task 5:Exploratory Data Analysis - Sports
+Task Description:Perform ‘Exploratory Data Analysis’ on dataset ‘Indian Premier League’
 
 
 # Task 6:Prediction using Decision Tree Algorithm
