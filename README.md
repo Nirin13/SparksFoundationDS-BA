@@ -36,16 +36,7 @@ The purpose is if we feed any new data to this classifier, it would be able to p
 Data can be found at https://bit.ly/3kXTdox
 
 
-# Task-4 : Stock Market Prediction using Numerical and Textual Analysis (Level - Advanced)
-Please click on the images on right side to view my solution.
 
-NOTE : If you face any issue over dataset then please refer to the thread of Issue #2.
-
-Create a hybrid model for stock price/performance prediction using numerical analysis of historical stock prices, and sentimental analysis of news headlines.
-Stock to analyze and predict SENSEX (S&P BSE SENSEX)
-Download historical stock prices from finance.yahoo.com
-Download textual (news) data from https://bit.ly/36fFPI6
-Use either R or Python, or both for separate analysis and then combine the findings to create a hybrid model.
 
 
 # Task 5:Exploratory Data Analysis - Sports
